@@ -1,6 +1,6 @@
-# Customer Churn Prediction – Classic ML & Neural Network
+# Customer Churn Prediction – Classical ML & Deep Neural Network
 
-**Supervisor:** [Mr. Amirreza Bahrami Moghaddas](https://www.linkedin.com/in/amirreza-bahrami-moghaddas-00886678)  
+**Supervisor:** Mr. Amirreza Bahrami Moghaddas  
 _Senior Data Scientist at Snapp! | AI Internship Instructor_
 
 ---
@@ -17,7 +17,7 @@ This repository presents two approaches for predicting customer churn using a ba
 The primary objective is to compare the predictive performance of classical machine learning models and deep learning methods for customer churn prediction.
 
 > **Note:**  
-> This project was developed for educational purposes as part of the Data Science & Machine Learning coursework at **becomexpert**, under the supervision of Mr. Amirreza Bahrami Moghaddas.
+> This project was developed for educational purposes as part of the Data Science & Machine Learning coursework at becomexpert, under the supervision of Mr. Amirreza Bahrami Moghaddas.
 
 ---
 
@@ -42,12 +42,12 @@ The primary objective is to compare the predictive performance of classical mach
 
 ## 📁 Files
 
-- `Churn_Clasic_AmirrezaBM.ipynb` – Classical ML models notebook
-- `Churn_CNN_AmirrezaBM.ipynb` – Neural Network implementation
+- `Churn_Classical_AmirrezaBM.ipynb` – Classical ML models notebook
+- `Churn_DNN_AmirrezaBM.ipynb` – Deep Neural Network implementation
 
 ---
 
 ## 🙋‍♂️ Author
 
-**Behnam Shokri**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/behnam-shokri-3874b0172)
+Behnam Shokri  
+[LinkedIn](https://linkedin.com/in/behnam-shokri-3874b0172)
