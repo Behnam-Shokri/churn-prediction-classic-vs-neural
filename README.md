@@ -27,7 +27,7 @@ The primary objective is to compare the predictive performance of classical mach
 - Exploratory Data Analysis (EDA)
 - Feature selection & engineering
 - Model training (classical ML & neural network)
-- Model evaluation (accuracy, confusion matrix, ROC-AUC, etc.)
+- Model evaluation (accuracy, confusion matrix, ROC-AUC)
 - Performance comparison
 
 ---
@@ -50,6 +50,4 @@ The primary objective is to compare the predictive performance of classical mach
 ## 🙋‍♂️ Author
 
 **Behnam Shokri**  
-[LinkedIn](https://www.linkedin.com/in/behnam-shokri-3874b0172)
-
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/behnam-shokri-3874b0172)
