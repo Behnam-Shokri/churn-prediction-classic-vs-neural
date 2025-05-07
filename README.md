@@ -1,7 +1,9 @@
 # Customer Churn Prediction – Classical ML & Deep Neural Network
 
 **Supervisor:** Mr. Amirreza Bahrami Moghaddas  
-_Senior Data Scientist at Snapp! | AI Internship Instructor_
+_Senior Data Scientist at Snapp! | AI Internship Instructor_  
+[LinkedIn](https://www.linkedin.com/in/amirreza-bahrami-moghaddas-00886678)
+
 
 ---
 
