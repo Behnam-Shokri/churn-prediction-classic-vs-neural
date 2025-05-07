@@ -46,7 +46,7 @@ The primary objective is to compare the predictive performance of classical mach
 
 - `Churn_Classical_AmirrezaBM.ipynb` – Classical ML models notebook
 - `Churn_DNN_AmirrezaBM.ipynb` – Deep Neural Network implementation
-
+> **Note:** All files are Jupyter Notebooks (`.ipynb`) developed and executed in Google Colab.
 ---
 
 ## 🙋‍♂️ Author
